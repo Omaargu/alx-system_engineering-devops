@@ -12,3 +12,5 @@ ls -lan : Display current directory contents.
 mkdir: creates a directory
 mv : move files
 rm : Remove files
+rm -r : removes directory
+
