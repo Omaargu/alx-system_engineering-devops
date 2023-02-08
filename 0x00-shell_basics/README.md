@@ -11,3 +11,4 @@ ls -lan : Display current directory contents.
     And hidden files (starting with .)
 mkdir: creates a directory
 mv : move files
+rm : Remove files
