@@ -14,4 +14,4 @@ mv : move files
 rm : Remove files
 rm -r : removes directory
 cd - : back to the previous working directory
-
+ls -la : list all files even hidden files
