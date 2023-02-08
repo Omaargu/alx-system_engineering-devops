@@ -13,4 +13,5 @@ mkdir: creates a directory
 mv : move files
 rm : Remove files
 rm -r : removes directory
+cd - : back to the previous working directory
 
