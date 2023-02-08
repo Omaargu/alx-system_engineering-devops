@@ -20,3 +20,4 @@ ln -s : Create a symbolic link -s refers to soft link
 cp -u : copy just updated files
 mv [A-Z]* /tmp/u : moves only files with capital letters
 rm *~ : Removes all files with extension ~(Emacs)
+mkdir -p welcome/to/school: create a dir in a dir in dir ...
