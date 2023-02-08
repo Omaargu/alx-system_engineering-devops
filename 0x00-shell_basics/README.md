@@ -10,3 +10,4 @@ ls -lan : Display current directory contents.
     with user and group IDs displayed numerically
     And hidden files (starting with .)
 mkdir: creates a directory
+mv : move files
