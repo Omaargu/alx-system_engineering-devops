@@ -18,3 +18,4 @@ ls -la : list all files even hidden files
 file : To know type of file
 ln -s : Create a symbolic link -s refers to soft link
 cp -u : copy just updated files
+mv [A-Z]* /tmp/u : moves only files with capital letters
