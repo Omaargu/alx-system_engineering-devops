@@ -31,3 +31,5 @@ sudo chown vincent:staff */ script that changes the owner to vincent and the gro
 
     The file hello will be in the working directory
  
+
+* telnet towel.blinkenlights.nl : watch starwars
