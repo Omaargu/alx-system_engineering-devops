@@ -23,4 +23,8 @@ Regular files should not be changed
 * mkdir -m 751 my_dir : Create a script that creates a directory called my_dir with permissions 751 in the working directory
 * chgrp school hello : script that changes the group owner to school for the file hello
 sudo chown vincent:staff */ script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+* sudo chown -h vincent:staff _hello : script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+    The file _hello is in the working directory
+    The file _hello is a symbolic link
  
