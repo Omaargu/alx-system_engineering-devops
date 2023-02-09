@@ -21,4 +21,5 @@ chmod -R */ :  adds execute permission to all subdirectories of the current dire
 
 Regular files should not be changed
 * mkdir -m 751 my_dir : Create a script that creates a directory called my_dir with permissions 751 in the working directory
+* chgrp school hello : script that changes the group owner to school for the file hello
  
