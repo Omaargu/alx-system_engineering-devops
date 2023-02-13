@@ -32,4 +32,5 @@ Requirements:
 
     include capital letters as well
 *tr Ac Ze : Replace all characters A and c from input to Z and e respectively
-*tr -d cC : delete characters from input 
+*tr -d cC : delete characters from input
+*rev : script that reverse its input 
