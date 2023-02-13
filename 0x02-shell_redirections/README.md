@@ -25,4 +25,4 @@ Requirements:
     Output format: One line, one word
     Words should be sorted
 *grep -E :Display lines containing the pattern “root” from the file /etc/passwd
- 
+*grep -E "bin" /etc/passwd | wc -l : Display the number of lines that contain the pattern “bin” in the file /etc/passwd 
