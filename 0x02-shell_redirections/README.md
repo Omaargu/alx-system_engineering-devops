@@ -33,4 +33,5 @@ Requirements:
     include capital letters as well
 *tr Ac Ze : Replace all characters A and c from input to Z and e respectively
 *tr -d cC : delete characters from input
-*rev : script that reverse its input 
+*rev : script that reverse its input
+*cut -d':' -f1,6  /etc/passwd | sort : Write a script that displays all users and their home directories, sorted by users 
