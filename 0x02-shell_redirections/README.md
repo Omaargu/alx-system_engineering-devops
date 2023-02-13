@@ -26,5 +26,5 @@ Requirements:
     Words should be sorted
 *grep -E :Display lines containing the pattern “root” from the file /etc/passwd
 *grep -E "bin" /etc/passwd | wc -l : Display the number of lines that contain the pattern “bin” in the file /etc/passwd
-*grep -EA "root" /etc/passwd:Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+*grep -EA 3 "root" /etc/passwd:Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 * 
