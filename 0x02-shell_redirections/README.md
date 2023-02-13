@@ -13,4 +13,10 @@ find . -type f -name '*.js' -delete : delete all the regular files (not the dire
 
     The current and parent directories should not be taken into account
     Hidden directories should be counted
+*ls -lt | head : Create a script that displays the 10 newest files in the current directory.
+
+Requirements:
+
+    One file per line
+    Sorted from the newest to the oldest
 * 
