@@ -21,4 +21,4 @@
 
     BREATH and LOVE are environment variables
     The script should display the result, followed by a new line
-*   
+* echo $((2#$BINARY)) : binary to decimal 
